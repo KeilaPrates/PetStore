@@ -1,0 +1,19 @@
+{
+  "id": 9223372036854023000,
+  "category": {
+    "id": 1,
+    "name": "AX1279845BA"
+  },
+    "name": "Nino",
+    "photoUrls": [
+      "String"
+    ],
+  "tags": [
+    {
+      "id": 2085733,
+      "name": "data"
+    }
+  ],
+  "status": "available"
+
+  }
